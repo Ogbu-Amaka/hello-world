@@ -1,3 +1,3 @@
 # hello-world
 Trying something new
-i love learning new things.
+i love learning new things daily
